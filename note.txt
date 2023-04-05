@@ -1,0 +1,5 @@
+format specifier 
+
+int = %d 
+float = %f 
+character = %c
