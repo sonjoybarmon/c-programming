@@ -1,4 +1,4 @@
-for (int i = 0; i < n; i++)
-    {
-        printf("%d\n", a[i]);
+  char a[6] = "sonjoy";
+    for (int i = 0; i < 6; i++){
+        printf("%c\t", a[i]);
     }
